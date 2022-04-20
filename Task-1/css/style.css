@@ -1,0 +1,15 @@
+.element2{
+    background-color: aqua;
+    border-bottom: 3px solid green;
+}
+
+body{
+    border: 1px solid green;
+}
+
+hr{
+    background-color: red;
+}
+.p{
+    background-color: green;
+}
